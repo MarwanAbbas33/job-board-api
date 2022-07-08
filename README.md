@@ -22,7 +22,5 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
-# job-board-api
-# job-board-api
-# job-board-api
+
 # job-board-api
